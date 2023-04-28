@@ -4,11 +4,15 @@ This repository contains a terminal-based application to manage a two-level park
 # Features:
 
 Automatically assigns an available parking space to a new vehicle.
+<br>
 Retrieves the parking spot number (and level) of any particular vehicle using the vehicle number as a unique identifier.
 
 # How to run:
 
 Clone this repository to your local machine
-Navigate to the project folder in terminal
-Run parking_lot_tracker.py by using the command "python parking_lot_tracker"
-Follow the on-screen prompts to perform supported operations
+<br>
+Navigate to the project folder in terminal.
+<br>
+Run parking_lot_tracker.py by using the command "python parking_lot_tracker".
+<br>
+Follow the on-screen prompts to perform supported operations.
